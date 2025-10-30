@@ -84,8 +84,8 @@
 ### Set Up Your Environment
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-account>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/AndriiBanduliak/GoogleCloud_Machine-Learning-Engineer-Learning-Path.git
+   cd GoogleCloud_Machine-Learning-Engineer-Learning-Path
    ```
 2. **Create an isolated Python environment** (conda or venv)
    ```bash
